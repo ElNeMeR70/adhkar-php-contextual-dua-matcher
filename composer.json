@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/adhkar-php-contextual-dua-matcher",
+  "description": "Context-Aware Sunnah Dua Recommender (Travel, Rain, Distress, Sleep) (مرشد الأدعية المأثورة حسب الأحوال والمناسبات)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
